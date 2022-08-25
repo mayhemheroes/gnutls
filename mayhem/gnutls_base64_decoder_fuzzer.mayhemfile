@@ -1,0 +1,4 @@
+project: PROJECT
+target: gnutls_base64_decoder_fuzzer
+cmds:
+- cmd: /out/gnutls_base64_decoder_fuzzer
